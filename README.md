@@ -1,2 +1,2 @@
 # Mission-to-Mars
-Practice web scraping and using flask
+Used Chrome developer tools, HTML components, Beautiful soup, and Splinter to automate and scrape

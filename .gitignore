@@ -7,7 +7,7 @@ practice.ipynb
 
 # C extensions
 *.so
-
+tester
 # Distribution / packaging
 .Python
 build/
